@@ -1,9 +1,4 @@
-Aqui estão os arquivos iniciais para o projeto:
-
-### `README.md`
-
-```markdown
-# NumericalIntegrationMethods
+# Numerical Integration Methods
 
 ### Descrição
 Este projeto implementa cinco métodos de integração numérica em Python utilizando a biblioteca NumPy. Esses métodos são úteis para calcular aproximações de integrais definidas quando uma solução analítica não é prática ou possível. Abaixo estão os métodos implementados:
@@ -20,6 +15,7 @@ Este projeto implementa cinco métodos de integração numérica em Python utili
 
 ### Instalação
 Clone o repositório e instale os pacotes necessários:
+
 ```bash
 git clone https://github.com/username/NumericalIntegrationMethods.git
 cd NumericalIntegrationMethods
@@ -55,6 +51,7 @@ Exemplos semelhantes estão disponíveis para:
 
 ### Testes
 Os testes unitários estão localizados na pasta `tests/`. Para rodar os testes, utilize o `pytest`:
+
 ```bash
 pytest
 ```
@@ -64,4 +61,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 
 ### Licença
 Este projeto está licenciado sob a [MIT License](LICENSE).
-```
